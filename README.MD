@@ -1,4 +1,4 @@
-<h2> <img src="https://media.giphy.com/media/ZP3sJFRIF2qm0p9yxu/giphy.gif" width="300" align="center"></h2>
+<h2> <img src="https://media.giphy.com/media/AcpUeHjHrdd8EkzauP/giphy.gif" width="300" align="center"></h2>
 <img align='right' src="https://media.giphy.com/media/E470LZUmy2Jiw/giphy.gif" width="250">
 
 [![Twitter: andrescarlsen](https://img.shields.io/twitter/follow/andrescarlsen?style=social)](https://twitter.com/andrescarlsen)
@@ -9,7 +9,9 @@
 
 ```javascript
 const AndresBernal = {
-  me:"I'm a passionate about making the web with javascript and / python, better. Long time Linux/Free Software/Open Source enthusiast, martial art practitioner & instructor, Autodidact & Blues-Jazz-Rap-Electro man... Weird mix eh"
+  me:"I'm a passionate about making the web with javascript and / python, better.Long time
+  randominfo:"Linux/Free Software/Open Source enthusiast, martial art practitioner & instructor,
+  Autodidact & Blues-Jazz-Rap-Electro man... Weird mix eh"
   skills:{
     frontend:"I understand of UI/UX design principles",
     deploy:"Knowledge on Build, Deployment of React.js code,Webpack, NPM, etc..."
