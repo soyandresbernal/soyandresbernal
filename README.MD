@@ -1,13 +1,13 @@
-<h2> Hi, I'm Andres Bernal! <img src="https://media.giphy.com/media/rVYgvWwCVOxxGpKyN9/giphy.gif" width="500"></h2>
+<h2> <img src="https://media.giphy.com/media/rVYgvWwCVOxxGpKyN9/giphy.gif" width="300"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/andrescarlsen)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/andrescarlsen?style=social)](https://twitter.com/andrescarlsen)
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/soyandresbernal)
+[![GitHub Thaiane](https://img.shields.io/github/followers/soyandresbernal?label=follow&style=social)](https://github.com/soyandresbernal)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/RuCvUUy4a4jVDVYnDC/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const thai = {
