@@ -19,7 +19,6 @@
   </p>
 
 [![Twitter: andrescarlsen](https://img.shields.io/twitter/follow/andrescarlsen?style=social)](https://twitter.com/andrescarlsen)
-
 [![GitHub soyandresbernal](https://img.shields.io/github/followers/soyandresbernal?label=follow&style=social)](https://github.com/soyandresbernal)
 
 ### <img src="https://media.giphy.com/media/RuCvUUy4a4jVDVYnDC/giphy.gif" width="50"> A little more about me
@@ -30,18 +29,18 @@ const AndresBernal = {
    exp: "5+"
   skills:{
     frontend:"I understand of UI/UX design principles",
-    deploy:"Knowledge on Build, Deployment of React.js code,Webpack, NPM, etc..."
+    deploy:"Knowledge on Build, Deployment of React.js code,Webpack, NPM, etc...",
     version: "Knowledge on different standard version controls",
     visual:"Experience working with graphic designers and converting designs to visual elements.",
     plus:"Experience with AWS such as EC2,vite,Mysql & Postgress & PL/SQL"
-  }
+  },
 
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Styled - Components, Jest, Docker],
   architecture: ["event-driven", "design system pattern","clean Arquitecture"],
-  randominfo:"Linux/Free Software/Open Source enthusiast, martial art practitioner & instructor"
-  hobbies: "Autodidact,chessgamer & Blues-Jazz-Rap-Electro man... Weird mix eh"
-  learning:"seedling I’m currently learning Python - Blockchain"
+  randominfo:"Linux/Free Software/Open Source enthusiast, martial art practitioner & instructor",
+  hobbies: "Autodidact,chessgamer & Blues-Jazz-Rap-Electro man... Weird mix eh",
+  learning:"seedling I’m currently learning Python - Blockchain",
   info:" I’m looking to collaborate on open source/commercial projects"
 
 };
