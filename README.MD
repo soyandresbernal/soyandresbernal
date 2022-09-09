@@ -25,24 +25,26 @@
 
 ```javascript
 const AndresBernal = {
-  me:"I'm a passionate about making the web with javascript and / python, better.Long time"
-   exp: "5+"
-  skills:{
-    frontend:"I understand of UI/UX design principles",
-    deploy:"Knowledge on Build, Deployment of React.js code,Webpack, NPM, etc...",
+  me: "I'm a passionate about making the web with javascript and / python, better.Long time",
+  exp: "5+",
+  skills: {
+    frontend: "I understand of UI/UX design principles",
+    deploy:
+      "Knowledge on Build, Deployment of React.js code,Webpack, NPM, etc...",
     version: "Knowledge on different standard version controls",
-    visual:"Experience working with graphic designers and converting designs to visual elements.",
-    plus:"Experience with AWS such as EC2,vite,Mysql & Postgress & PL/SQL"
+    visual:
+      "Experience working with graphic designers and converting designs to visual elements.",
+    plus: "Experience with AWS such as EC2,vite,Mysql & Postgress & PL/SQL",
   },
 
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Styled - Components, Jest, Docker],
-  architecture: ["event-driven", "design system pattern","clean Arquitecture"],
-  randominfo:"Linux/Free Software/Open Source enthusiast, martial art practitioner & instructor",
+  architecture: ["event-driven", "design system pattern", "clean Arquitecture"],
+  randominfo:
+    "Linux/Free Software/Open Source enthusiast, martial art practitioner & instructor",
   hobbies: "Autodidact,chessgamer & Blues-Jazz-Rap-Electro man... Weird mix eh",
-  learning:"seedling I’m currently learning Python - Blockchain",
-  info:" I’m looking to collaborate on open source/commercial projects"
-
+  learning: "seedling I’m currently learning Python - Blockchain",
+  info: " I’m looking to collaborate on open source/commercial projects",
 };
 ```
 
