@@ -1,4 +1,4 @@
-<h2> <img src="https://media.giphy.com/media/AcpUeHjHrdd8EkzauP/giphy.gif" width="300" align="center"></h2>
+<h2> <img src="https://media.giphy.com/media/AcpUeHjHrdd8EkzauP/giphy.gif" width="500" ></h2>
 <img align='right' src="https://media.giphy.com/media/E470LZUmy2Jiw/giphy.gif" width="250">
 
 [![Twitter: andrescarlsen](https://img.shields.io/twitter/follow/andrescarlsen?style=social)](https://twitter.com/andrescarlsen)
