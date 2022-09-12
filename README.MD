@@ -51,3 +51,7 @@ const AndresBernal = {
 <img src="https://media.giphy.com/media/RJW92h4vWo8GeQZyE6/giphy.gif" width="200"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
+
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ossamamehmood&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ossamamehmood&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
